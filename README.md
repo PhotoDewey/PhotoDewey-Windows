@@ -10,7 +10,7 @@ This repository is the public home for the PhotoDewey **installer** and **commun
 
 Grab the latest Windows installer from the [Releases page](https://github.com/Wassini/PhotoDewey/releases/latest):
 
-➡ **[Download Setup.exe](https://github.com/Wassini/PhotoDewey/releases/latest/download/Setup.exe)**
+➡ **[Download Setup.exe](https://github.com/Wassini/PhotoDewey/releases/download/v0.10.0/PhotoDewey-stable-Setup.exe)**
 
 - Windows 10 or Windows 11 (64-bit)
 - Per-user install — no admin / UAC prompt
