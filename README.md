@@ -31,6 +31,8 @@ If something goes wrong:
 1. From the app: *Help → Send Feedback* — attaches your version, OS, and an anonymous library summary automatically.
 2. Or open a [new issue](https://github.com/Wassini/PhotoDewey/issues/new/choose) here with the **Bug report** template.
 
+> **Where each path goes:** *Send Feedback* in the app and the [feedback form on photodewey.eu](https://photodewey.eu/feedback.html) post directly to the developer team — they do **not** create GitHub issues. Use those channels when you want a private one-way message (e.g. crash reports, sensitive details, "I just want to vent"). Use the [Issues tab](https://github.com/Wassini/PhotoDewey/issues) here when you want a public conversation that other users can find, upvote, and add to.
+
 For app-side problems, include:
 
 - The version from *Help → About PhotoDewey* (Windows + Core line)
