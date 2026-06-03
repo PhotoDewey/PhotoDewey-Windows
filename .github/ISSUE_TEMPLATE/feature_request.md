@@ -2,19 +2,12 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: ''
+labels: feature
 assignees: ''
 
 ---
-### What Operation System are you using?
-_Please select one_
-
-[ ] Windows
-[ ] Linux
-[ ] MacOS
-
-### Is your feature request related to a problem? Please describe.
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+### Please describe the feature
+A clear and concise description of the feature you think is missing from PhotoDewey
 
 ### Describe the solution you'd like
 A clear and concise description of what you want to happen.
@@ -23,4 +16,4 @@ A clear and concise description of what you want to happen.
 A clear and concise description of any alternative solutions or features you've considered.
 
 ### Additional context
-Add any other context or screenshots about the feature request here.s
+Add any other context or screenshots about the feature request here.
