@@ -8,9 +8,9 @@ This repository is the public home for the PhotoDewey **installer** and **commun
 
 ## ⬇ Download
 
-Grab the latest Windows installer from the [Releases page](https://github.com/Wassini/PhotoDewey/releases/latest):
+Grab the latest Windows installer from the [Releases page](https://github.com/PhotoDewey/PhotoDewey-for-Windows/releases/latest):
 
-➡ **[Download Setup.exe](https://github.com/Wassini/PhotoDewey/releases/latest/PhotoDewey-stable-Setup.exe)**
+➡ **[Download Setup.exe](https://github.com/PhotoDewey/PhotoDewey-for-Windows/releases/latest/PhotoDewey-stable-Setup.exe)**
 
 - Windows 10 or Windows 11 (64-bit)
 - Per-user install — no admin / UAC prompt
@@ -29,9 +29,9 @@ For the full project page and screenshots, see **<https://photodewey.eu>**.
 If something goes wrong:
 
 1. From the app: *Help → Send Feedback* — attaches your version, OS, and an anonymous library summary automatically.
-2. Or open a [new issue](https://github.com/Wassini/PhotoDewey/issues/new/choose) here with the **Bug report** template.
+2. Or open a [new issue](https://github.com/PhotoDewey/PhotoDewey-for-Windows/issues/new/choose) here with the **Bug report** template.
 
-> **Where each path goes:** *Send Feedback* in the app and the [feedback form on photodewey.eu](https://photodewey.eu/feedback.html) post directly to the developer team — they do **not** create GitHub issues. Use those channels when you want a private one-way message (e.g. crash reports, sensitive details, "I just want to vent"). Use the [Issues tab](https://github.com/Wassini/PhotoDewey/issues) here when you want a public conversation that other users can find, upvote, and add to.
+> **Where each path goes:** *Send Feedback* in the app and the [feedback form on photodewey.eu](https://photodewey.eu/feedback.html) post directly to the developer team — they do **not** create GitHub issues. Use those channels when you want a private one-way message (e.g. crash reports, sensitive details, "I just want to vent"). Use the [Issues tab](https://github.com/PhotoDewey/PhotoDewey-for-Windows/issues) here when you want a public conversation that other users can find, upvote, and add to.
 
 For app-side problems, include:
 
@@ -42,11 +42,11 @@ For app-side problems, include:
 
 ---
 
-## 💡 Request a feature
+## 💡 Request a feature or bug
 
-Browse the [Issues tab](https://github.com/Wassini/PhotoDewey/issues) first to see if your idea is already there. If it is, **add a 👍 reaction** to upvote it — popular requests move up the backlog.
+Browse the [Issues tab](https://github.com/PhotoDewey/PhotoDewey-for-Windows/issues) first to see if your idea is already there. If it is, **add a 👍 reaction** to upvote it — popular requests move up the backlog.
 
-If it isn't, open a [new issue](https://github.com/Wassini/PhotoDewey/issues/new/choose) using the **Feature request** template. Tell us:
+If it isn't, open a [new issue](https://github.com/PhotoDewey/PhotoDewey-for-Windows/issues/new/choose) using the **Feature request** template. Tell us:
 
 - What problem you're trying to solve (more important than the proposed solution)
 - How it would fit into your photo workflow
