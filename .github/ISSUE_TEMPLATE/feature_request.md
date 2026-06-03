@@ -6,6 +6,13 @@ labels: feature
 assignees: ''
 
 ---
+### What Operation System are you using?
+_Please select one_
+
+[x] Windows
+[ ] Linux
+[ ] MacOS
+
 ### Please describe the feature
 A clear and concise description of the feature you think is missing from PhotoDewey
 
