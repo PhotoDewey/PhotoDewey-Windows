@@ -9,7 +9,7 @@ assignees: ''
 ### What Operation System are you using?
 _Please select one_
 
-[ ] Windows
+[x] Windows
 [ ] Linux
 [ ] MacOS
 
